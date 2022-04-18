@@ -3,3 +3,4 @@
  
  In this exercise, you will experiment will a Reservoir Computer 
  method for predictions of trajectories of the Lorenz 1963 model. 
+ 
